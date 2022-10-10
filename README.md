@@ -1,2 +1,2 @@
 # pi_estimation
-Simple function for π estimation
+A simple function for π estimation I made in grade 11
